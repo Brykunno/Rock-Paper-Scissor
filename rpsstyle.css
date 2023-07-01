@@ -1,0 +1,16 @@
+body{
+    background-color: #7FD1B9;
+    font-family: poppins;
+}
+.choicebtn{
+    background-color: #7A6563;
+    height: 30px;
+    width: 80px;
+    color: white;
+    font-family: poppins;
+    border-radius: 12px;
+    cursor: pointer;
+}
+#gamecontainer{
+    text-align: center;
+}
